@@ -1,0 +1,25 @@
+{
+  "name": "Dominus Menu",
+  "timestamp": "2023-07-16T23:40:15.804Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/mrchandanmishra/taiko-logos/main/taiko-icon-blk.svg",
+  "keywords": [
+    "dominusswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "TaikoTest",
+      "address": "0x0E69bC43CBcE1575d61E3f0e6c6100bC0E7a53dc",
+      "symbol": "Taikotest",
+      "decimals": 18,
+      "chainId": 167005,
+      "logoURI": "https://raw.githubusercontent.com/mrchandanmishra/taiko-logos/main/taiko-icon-blk.svg"
+    }
+  ]
+}
