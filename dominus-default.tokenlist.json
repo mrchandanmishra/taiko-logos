@@ -14,12 +14,12 @@
   ],
   "tokens": [
     {
-      "name": "TaikoTest",
-      "address": "0x0E69bC43CBcE1575d61E3f0e6c6100bC0E7a53dc",
-      "symbol": "Taikotest",
+      "name": "Dominus Swap Token",
+      "address": "0x730F2Fed398E677A4F984868ABc47D4231f81036",
+      "symbol": "DMS",
       "decimals": 18,
       "chainId": 167005,
-      "logoURI": "https://raw.githubusercontent.com/mrchandanmishra/taiko-logos/main/taiko-icon-blk.svg"
+      "logoURI": "https://raw.githubusercontent.com/mrchandanmishra/taiko-logos/main/dominuslogo.png"
     }
   ]
 }
