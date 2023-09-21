@@ -14,11 +14,11 @@
   ],
   "tokens": [
     {
-      "name": "Dominus Swap Token",
-      "address": "0x730F2Fed398E677A4F984868ABc47D4231f81036",
-      "symbol": "DMS",
+      "name": "Dominus Token",
+      "address": "0x4b31d1CbDAE4733f680f15D61ca6d82618b8A00b",
+      "symbol": "DMNS",
       "decimals": 18,
-      "chainId": 167005,
+      "chainId": 165,
       "logoURI": "https://raw.githubusercontent.com/mrchandanmishra/taiko-logos/main/dominuslogo.png"
     }
   ]
